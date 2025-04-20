@@ -1,25 +1,28 @@
 
 # 🎬 Netflix Data Analysis
-![Netflix logo](images/Netflix_logo.png)
+![Netflix logo](Netflix_logo.jpg)
 
 
 This project explores and analyzes the Netflix catalog to uncover key insights about genre distribution, release trends, regional preferences, and content ratings. 
 
 
 ### TABLE OF CONTENTS
-
+- [ABOUT NETFLIX](#about-netflix)
 - [OBJECTIVE](#objective)
 - [DATA SET](#data-set)
 - [TOOLS](#tools)
 - [DATA CLEANING](#data-cleaning)
 - [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 
+## About Netflix
 
-## 📌 Objective
+Netflix is a subscription-based streaming service offering a vast library of TV shows, movies, documentaries, and original content. It allows users to watch on various devices, including smart TVs, computers, tablets, and smartphones. Netflix offers a diverse selection of content in multiple languages, available globally. 
+
+## Objective
 
 To help Netflix make data-driven content strategy decisions using visual and non-visual EDA techniques.
 
-## 📊 Dataset Overview
+## Data set
 
 The dataset contains details of over 8,800 Netflix titles including movies and TV shows with features like:
 - show_id : Unique ID for each title
@@ -33,8 +36,8 @@ The dataset contains details of over 8,800 Netflix titles including movies and T
 - rating : Audience rating
 - duration : Duration of the content
 - listed_in : Genre
-- 
-## 🧰 Tools & Libraries
+  
+##  Tools 
 
 - Python
 - Pandas, NumPy
